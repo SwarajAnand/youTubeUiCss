@@ -131,9 +131,11 @@ hr {
 
 .video .video_thumbnail img {
     width: 100%;
+    border: 1px solid #ddd;
 }
 
 .author img {
+    border-radius: 50%;
     object-fit: cover;
     height: 40px;
     width: 40px;
